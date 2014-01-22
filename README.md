@@ -1,18 +1,9 @@
-Summitek LabVIEW Tools Library
-==============================
+LabVIEW DIAdem Connectivity Toolkit
+===================================
 
-A compendium of tools and utility functions used in various Summitek Instruments
-LabVIEW software programs.
+The National Instruments (NI) LabVIEW DIAdem Connectivity Toolkit is used to
+facilitate communication between programs written in LabVIEW and the
+NI data management and visualization software, DIAdem.
 
----
+The toolkit is available from National Instruments (<http://www.ni.com/>).
 
-**Contact Information**
-
-Kaelus, Inc.
-12503 E. Euclid Dr.
-Suite 7
-Centennial, CO 80111
-U.S.A.
-
-(303) 768-8080
-[www.kaelus.com](http://www.kaelus.com)
